@@ -8,6 +8,7 @@ Construo soluções que economizam tempo e escalam resultados —
 desde scripts de automação até interfaces web integradas com IA.
 Estudante de Eng. de Software e ADS, baseado no Maranhão.
 
+
 </div>
 
 ---
@@ -40,8 +41,6 @@ Se você tem um processo repetitivo, uma ideia de produto ou precisa de uma solu
 
 ### Contato
 
-Disponível para projetos freelancer e colaborações.
-<br><br>
-Me chama no LinkedIn.
+Disponível para projetos freelancer e colaborações. Me chama no LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusslira/)
