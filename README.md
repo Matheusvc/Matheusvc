@@ -6,7 +6,7 @@
 
 Construo soluções que economizam tempo e escalam resultados —
 desde scripts de automação até interfaces web integradas com IA.
-Estudante de Eng. de Software e ADS, baseado no Maranhão.
+Acadêmico de Eng. de Software e ADS.
 
 
 </div>
