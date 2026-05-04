@@ -8,7 +8,7 @@ Construo soluções que economizam tempo e escalam resultados —
 desde scripts de automação até interfaces web integradas com IA.
 Estudante de Eng. de Software e ADS, baseado no Maranhão.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Lira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusslira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Lira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusslira/)
 [![Visitantes](https://komarev.com/ghpvc/?username=Matheusvc&style=flat-square&color=6e40c9&label=visitas+ao+perfil)](https://github.com/Matheusvc)
 
 </div>
@@ -31,11 +31,16 @@ Se você tem um processo repetitivo, uma ideia de produto ou precisa de uma solu
 
 <br>
 
-| Área | Ferramentas |
-|---|---|
-| Front-end | React · JavaScript · HTML · CSS |
-| Automação & IA | Python · APIs REST · IA Generativa |
-| Versionamento | Git · GitHub |
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
@@ -53,4 +58,4 @@ Se você tem um processo repetitivo, uma ideia de produto ou precisa de uma solu
 Disponível para projetos freelancer e colaborações.
 Me chama no LinkedIn.
 
-[![LinkedIn](https://img.shields.io/badge/Falar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusslira/)
+[![LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusslira/)
