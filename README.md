@@ -25,6 +25,8 @@ Se você tem um processo repetitivo, uma ideia de produto ou precisa de uma solu
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,git&theme=dark&perline=6" />
 
+<br><br>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,6 +41,7 @@ Se você tem um processo repetitivo, uma ideia de produto ou precisa de uma solu
 ### Contato
 
 Disponível para projetos freelancer e colaborações.
+<br><br>
 Me chama no LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusslira/)
