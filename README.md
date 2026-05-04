@@ -14,7 +14,7 @@ Estudante de Eng. de Software e ADS, baseado no Maranhão.
 
 ### O que eu faço
 
-Trabalho com **automação de processos**, **integração de APIs** e **aplicações web** — combinando Python para automações e IA com React e HTML/CSS no front. Tenho interesse especial em aplicar IA Generativa em problemas reais de negócios.
+Trabalho com **automação de processos**, **integração de APIs** e **aplicações web** — Python para automações com IA, React e HTML/CSS no front. Foco em aplicar IA Generativa em problemas reais de negócios.
 
 Se você tem um processo repetitivo, uma ideia de produto ou precisa de uma solução web, estou aberto a conversar.
 
@@ -23,6 +23,9 @@ Se você tem um processo repetitivo, uma ideia de produto ou precisa de uma solu
 ### Tecnologias
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,git&theme=dark&perline=6" />
+
+<br><br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,6 +35,8 @@ Se você tem um processo repetitivo, uma ideia de produto ou precisa de uma solu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
 
 ### Contato
 
